@@ -18,4 +18,4 @@ A simple Rock Paper Scissors game built using Python.
 ## How to Run
 1. Download the file
 2. Run:
-python rock_paper_scissors.py
+python game.py
